@@ -1,0 +1,11 @@
+{
+    "dataset": "serveo",
+    "date_start": "2021-01-01",
+    "date_end": "2021-06-30",
+    "sample_frequency": "1h",
+    "frequency_alias": "h",
+    "train_val_split": 0.9,
+    "epochs": 20,
+    "input_chunk_length": 12,
+    "output_chunk_length": 4
+}
